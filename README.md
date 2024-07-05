@@ -1,8 +1,6 @@
 # Semi-Conductor-fundamentals-LAB
 EE2301
 
-# Semiconductor Fundamentals Experiments
-
 This repository contains the detailed documentation and analysis of experiments conducted as part of the Semiconductor Fundamentals Lab course. Below is a summary of each experiment:
 
 ## Experiment 1: Current-Voltage Characteristics of a Diode
