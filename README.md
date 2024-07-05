@@ -1,13 +1,9 @@
 # Semi-Conductor-fundamentals-LAB
 EE2301
 
-Here's the updated README file including all experiments from your semiconductor fundamentals course:
-
----
-
 # Semiconductor Fundamentals Experiments
 
-This repository contains the detailed documentation and analysis of experiments conducted as part of the Semiconductor Fundamentals Lab course. All these experiments are done in collaboration with my partner, his github profile[Here]{https://github.com/Karthikeya210}. Below is a summary of each experiment:
+This repository contains the detailed documentation and analysis of experiments conducted as part of the Semiconductor Fundamentals Lab course. Below is a summary of each experiment:
 
 ## Experiment 1: Current-Voltage Characteristics of a Diode
 - **Task 1**: Measure the I-V characteristics of a diode (1N4007) in forward and reverse bias.
